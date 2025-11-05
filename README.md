@@ -12,3 +12,4 @@ Here's our todo:
 
 \- \[x] Fix this typo
 
+This is a test of the push function

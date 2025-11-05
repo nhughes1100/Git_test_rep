@@ -2,9 +2,11 @@
 
 ```
 bread
+bacon
+mayonnaise
 Knuckle! 
 bread
 ```
 
 ## Todos:
-- [ ] add filling
+- [X] add filling

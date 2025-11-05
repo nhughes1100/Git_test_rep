@@ -2,6 +2,8 @@
 
 ```
 bread
+bacon
+mayonnaise
 Knuckle! 
 Cheese
 bread

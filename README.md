@@ -1,9 +1,9 @@
 \# Learning Git
 
+It was a dark and stormy night...
 
 
 Here's our todo:
-
 
 
 \- \[x] Create a new file
@@ -13,3 +13,5 @@ Here's our todo:
 \- \[x] Fix this typo
 
 This is a test of the push function
+
+This is a test of the staging function

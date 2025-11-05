@@ -2,9 +2,9 @@
 
 ```
 bread
+Knuckle! 
 bacon
 mayonnaise
-Knuckle! 
 bread
 ```
 
